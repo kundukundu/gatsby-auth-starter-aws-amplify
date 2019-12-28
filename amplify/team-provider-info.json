@@ -1,20 +1,15 @@
 {
     "master": {
         "awscloudformation": {
-            "AuthRoleName": "amplify-my-aws-project-master-135858-authRole",
-            "UnauthRoleArn": "arn:aws:iam::530797601929:role/amplify-my-aws-project-master-135858-unauthRole",
-            "AuthRoleArn": "arn:aws:iam::530797601929:role/amplify-my-aws-project-master-135858-authRole",
+            "AuthRoleName": "amplify-gatsbyauthstarteraws-master-153900-authRole",
+            "UnauthRoleArn": "arn:aws:iam::530797601929:role/amplify-gatsbyauthstarteraws-master-153900-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::530797601929:role/amplify-gatsbyauthstarteraws-master-153900-authRole",
             "Region": "us-east-1",
-            "DeploymentBucketName": "amplify-my-aws-project-master-135858-deployment",
-            "UnauthRoleName": "amplify-my-aws-project-master-135858-unauthRole",
-            "StackName": "amplify-my-aws-project-master-135858",
-            "StackId": "arn:aws:cloudformation:us-east-1:530797601929:stack/amplify-my-aws-project-master-135858/d1a07aa0-2971-11ea-9379-0a99e59b1983",
-            "AmplifyAppId": "d6881eiqjo8xb"
-        },
-        "categories": {
-            "auth": {
-                "cognito704b3e59": {}
-            }
+            "DeploymentBucketName": "amplify-gatsbyauthstarteraws-master-153900-deployment",
+            "UnauthRoleName": "amplify-gatsbyauthstarteraws-master-153900-unauthRole",
+            "StackName": "amplify-gatsbyauthstarteraws-master-153900",
+            "StackId": "arn:aws:cloudformation:us-east-1:530797601929:stack/amplify-gatsbyauthstarteraws-master-153900/cb34c500-297f-11ea-befa-0ece9c9311f7",
+            "AmplifyAppId": "d2o9dy6pgvgi4h"
         }
     }
 }
