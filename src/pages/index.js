@@ -14,7 +14,7 @@ const IndexPage = () => (
     <p>Crea una nueva cuenta: <Link to="/app/signup">Registrar</Link></p>
     <Link to="/app/login">Entrar</Link><br />
     <Link to="/app/home">Inicio</Link><br />
-    <Link to="/app/profile">Tu perfil</Link>
+    <Link to="/app/profile">Tu perfil.</Link>
   </Layout>
 )
 
