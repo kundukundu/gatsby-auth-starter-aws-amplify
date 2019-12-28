@@ -9,12 +9,12 @@ Amplify.configure(config)
 
 const IndexPage = () => (
   <Layout>
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site with multi-user authentication powered by <a href="https://amplify.aws">AWS Amplify</a></p>
-    <p>Create a new account: <Link to="/app/signup">Sign Up</Link></p>
-    <Link to="/app/login">Sign In</Link><br />
-    <Link to="/app/home">Home</Link><br />
-    <Link to="/app/profile">Your profile</Link>
+    <h1>¡Hola!</h1>
+    <p>Bienvenido a tienda-de-barrio.com! Aqui puedes promocionar gratis tu tienda de barrio¡</p>
+    <p>Crea una nueva cuenta: <Link to="/app/signup">Registrar</Link></p>
+    <Link to="/app/login">Entrar</Link><br />
+    <Link to="/app/home">Inicio</Link><br />
+    <Link to="/app/profile">Tu perfil</Link>
   </Layout>
 )
 
